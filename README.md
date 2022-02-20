@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nassim and I'm a Full stack Software Engineer.
+Full stack Software Engineer. Master of Data Science (HSE University). [Speaker](https://github.com/zapolnoch/zapolnoch/blob/main/conferences.md).
 
 #### Technologies
 
@@ -14,5 +14,5 @@ My name is Nassim and I'm a Full stack Software Engineer.
 <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-eee?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat-square&logo=graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat-square&logo=graphql&logoColor=DA0093)
 ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker)
