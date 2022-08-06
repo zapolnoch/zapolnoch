@@ -1,9 +1,3 @@
-### Hi there 👋
-
-Full stack Software Engineer. Master of Data Science (HSE University). [Speaker](https://github.com/zapolnoch/zapolnoch/blob/main/conferences.md).
-
-#### Technologies
-
 ![HTML](https://img.shields.io/badge/-HTML-eee?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-eee?style=flat-square&logo=CSS3&logoColor=1572B6)
 <br />
