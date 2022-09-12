@@ -26,7 +26,8 @@
         width: 100%;
         max-width: 880px;
         margin: 0 auto;
-        background-image: url("bg.avif");
+        background-image: url("bg.jpeg");
+        -webkit-background-clip: text;
         background-clip: text;
         background-size: 100% 150%;
         font-size: 80px;
@@ -34,6 +35,13 @@
         color: transparent;
         letter-spacing: 1.8px;
         line-height: 107px;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .headline {
+          font-size: 60px;
+          line-height: 60px;
+        }
       }
 
       .stats,
@@ -46,6 +54,12 @@
         width: 50%;
         margin: 0 auto;
         padding-bottom: 20px;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .desc {
+          width: 95%;
+        }
       }
 
       .stats {
@@ -77,6 +91,12 @@
       .links img {
         max-width: 165px;
       }
+
+      @media only screen and (max-width: 600px) {
+        .links img {
+          max-width: 85px;
+        }
+      }
     </style>
   </head>
   <body>
@@ -84,9 +104,10 @@
 
     <div>
       <div class="desc">
-        Eslint-config-silence содержит в себе только логические правила, без проверки стилистики. В
-        первую очередь Silence запрещает устаревшие конструкции языка, помогает избежать ошибок в
-        вашем коде, рекомендует наилучшие практики и обнаруживает "запахи кода". При выборе правил
+        Eslint-config-silence содержит в себе только логические правила, без
+        проверки стилистики. В первую очередь Silence запрещает устаревшие
+        конструкции языка, помогает избежать ошибок в вашем коде, рекомендует
+        наилучшие практики и обнаруживает "запахи кода". При выборе правил
         авторы следовали принципу сужения выбора и "ускучнения" языка.
       </div>
       <div class="stats">
@@ -109,10 +130,16 @@
 
     <div class="links">
       <a href="https://github.com/zapolnoch/eslint-config-silence">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" />
+        <img
+          src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+          alt="github"
+        />
       </a>
       <a href="https://www.npmjs.com/package/eslint-config-silence">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" />
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"
+          alt="npm"
+        />
       </a>
     </div>
   </body>
