@@ -1,7 +1,7 @@
 | What? | Where? | When? | Video |
 | --- | --- | --- | --- |
 | Проходит ли ваш линтер банановый тест | Evrone meetup, online | 2022-03-09 | [![Video](https://img.shields.io/youtube/views/3v2R0wEfrJ4)](https://youtu.be/3v2R0wEfrJ4) |
-| Энтропия фронтенд проекта | Podlodka Crew, online | 2021-07-15 | |
+| Энтропия фронтенд проекта | Podlodka Crew, online | 2021-07-15 | [![Video](https://img.shields.io/youtube/views/ttxqnObNVXw)](https://youtu.be/ttxqnObNVXw) |
 | Воркшоп: Знакомство с MobX | HolyJS, online | 2021-04-23 | [![Video](https://img.shields.io/youtube/views/gXy1H3yZtSA)](https://youtu.be/gXy1H3yZtSA) |
 | [Почему мы выбрали MobX, а не Redux?](https://habr.com/ru/company/vk/blog/522312/) | Panda Meetup, Иннополис | 2020-02-29 | [![Video](https://img.shields.io/youtube/views/629ZhWebKzs)](https://youtu.be/629ZhWebKzs) |
 |  | React Russia, Москва | 2019-12-11 | |
