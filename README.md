@@ -1,8 +1,8 @@
 ### About me 👋
 
-- Master of Data Science (HSE University)
+- Master of Data Science (HSE)
 - Web3 Enthusiast
-- [Speaker](https://github.com/zapolnoch/zapolnoch/blob/main/conferences.md). MobX Ambassador
+- [Speaker](https://github.com/zapolnoch/zapolnoch/blob/main/conferences.md) [ru]. [MobX](https://mobx-cookbook.github.io) Ambassador
 - [Top-10 Backer](https://opencollective.com/zapolnoch) for Prettier, Typescript-ESLint and Stylelint
 
 #### Stack
